@@ -1,3 +1,5 @@
+#  Write a Python function to check whether a given year is a leap year or not.
+
 # Function to check if a given year is a leap year
 def is_leap(year):
     leap = False  # Assume it's not a leap year initially
