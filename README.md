@@ -8,7 +8,7 @@ To solve 1–2 Python problems daily, ranging from beginner to intermediate leve
 
 ## 👧 About
 
-This repo is created for **Dhanyatha** to practice Python regularly. Each file will contain:
+Each file will contain:
 - A Python problem statement (commented)
 - The solution with proper code and explanation
 
