@@ -1,3 +1,5 @@
+# Write a Python program to generate a QR code for the text "Python Programming is fun!" and save it as an image file.
+
 # Import the qrcode library for generating QR codes
 import qrcode
 
