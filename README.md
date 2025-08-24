@@ -1,10 +1,10 @@
-# Daily Python Practice 🐍
+# Python Practice 🐍
 
-Welcome to **Daily Python Practice** – a personal repository to improve Python skills one day at a time!
+Welcome to **Python Practice** – a personal repository to improve Python skills one day at a time!
 
 ## 📌 Goal
 
-To solve 1–2 Python problems daily, ranging from beginner to intermediate level, and build consistent programming habits.
+To solve 1–2 Python problems, ranging from beginner to intermediate level, and build consistent programming habits.
 
 ## 👧 About
 
